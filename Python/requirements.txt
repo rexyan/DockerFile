@@ -1,0 +1,5 @@
+requests==2.18.4
+beautifulsoup4==4.6.3
+Flask==1.0.2
+fishbase==1.0.14
+gunicorn==19.9.0
